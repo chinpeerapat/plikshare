@@ -1,5 +1,10 @@
 <img alt="plikshare_dashboard" src="https://github.com/damian-krychowski/plikshare/blob/main/assets/dashboard_printscreen.png">
 
+# 1-click deployment on Railway
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/F97XO2?referralCode=gKALTQ)
+
+
 # PlikShare
 
 PlikShare is a self-hosted file sharing application that allows you to securely share files with others.
